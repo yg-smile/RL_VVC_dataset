@@ -19,14 +19,19 @@ Create implement the ```update()```, ```act_deterministic```, and ```act_probabi
 
 ## References
 <a id="1">[1]</a> 
-Gao, Y., Yu, N., (2021). A Reinforcement Learning-based Volt-VAR Control Dataset and Environment.
+Y. Gao and N. Yu, “A reinforcement learning-based volt-VAR control dataset and testing environment,” arXiv.org, 20-Apr-2022. [Online]. Available: https://arxiv.org/abs/2204.09500.
 
 ## Citing this benchmark
 To cite this benchmark, please cite the following paper:
 
 ```
-@article{gao2021benchmark,
-  title={A Reinforcement Learning-based Volt-VAR Control Dataset and Environment},
-  author={Gao, Yuanqi and Yu, Nanpeng},
+@misc{gao2022dataset,
+  doi = {10.48550/ARXIV.2204.09500},
+  url = {https://arxiv.org/abs/2204.09500},
+  author = {Gao, Yuanqi and Yu, Nanpeng},
+  title = {A Reinforcement Learning-based Volt-VAR Control Dataset and Testing Environment},
+  publisher = {arXiv},
+  year = {2022},
 }
+
 ```
